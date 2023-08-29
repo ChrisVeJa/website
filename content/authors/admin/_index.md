@@ -86,4 +86,4 @@ I will be on the job market in the academic year 2023-2024 and am available for 
 
 {style="text-align: justify;"}
 ### **Interests:**
-  - **Macroeconomics of Climate Change , International Finance , and Small Open Economies**
+  - Macroeconomics of Climate Change , International Finance , and Small Open Economies

@@ -24,7 +24,7 @@ publishDate: '2023-08-02T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Wowchemy Conference*
+publication: Job Market Paper
 #publication_short: In *ICW*
 
 abstract: I study the macroeconomic implications of state and sector specific sensitivity to weather fluctuations and interregional production networks in the United States. I build a general equilibrium model where the impact of weather fluctuations on productivity is sector-state dependent and networks expose sectors to weather shocks from other states through the use of intermediate inputs. I use annual data on sectoral GDP per capita and temperature anomalies by state from 1970 to 2019 to test these mechanisms. My estimates show that models that do not consider these characteristics underestimate the aggregate impact of weather fluctuations by at least a factor of 3. In particular, when the whole economy faces a fully transitory unexpected increase in temperature of 1 Celsius degree, the contraction in economic activity increases from -0.13 to -0.37 percent once heterogeneity is considered and to -1.14 percent when networks are included.
@@ -32,7 +32,10 @@ abstract: I study the macroeconomic implications of state and sector specific se
 # Summary. An optional shortened abstract.
 summary: I study the macroeconomic implications of state and sector specific sensitivity to weather fluctuations and interregional production networks in the United States. I build a general equilibrium model where the impact of weather fluctuations on productivity is sector-state dependent and networks expose sectors to weather shocks from other states through the use of intermediate inputs. I use annual data on sectoral GDP per capita and temperature anomalies by state from 1970 to 2019 to test these mechanisms. My estimates show that models that do not consider these characteristics underestimate the aggregate impact of weather fluctuations by at least a factor of 3. In particular, when the whole economy faces a fully transitory unexpected increase in temperature of 1 Celsius degree, the contraction in economic activity increases from -0.13 to -0.37 percent once heterogeneity is considered and to -1.14 percent when networks are included.
 
-tags: []
+tags: 
+  - Weather shocks
+  - Networks
+  - Heterogeneity
 
 # Display this page in the Featured widget?
 featured: true
@@ -54,7 +57,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image: [**Aggregate impact of weather shocks**]'
+  caption: ''
   focal_point: ''
   preview_only: false
 
