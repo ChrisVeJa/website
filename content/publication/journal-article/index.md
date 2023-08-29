@@ -1,16 +1,14 @@
 ---
-title: "An example journal article"
+title: "Global shocks, terms of trade and Small Open Economies business cycles"
 authors:
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,10 +20,10 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Terms of trade have been largely considered an important determinant of business cycles in Small Open Economies (SOEs). Current estimates of their contribution to fluctuations in real variables show a large variability and do not exploit the full information from global indicators to improve their reliability. In this paper, I propose a novel strategy that allows me to separately identify innovations in terms of trade and global variables by extending the news identification approach. Results show that the proposed method successfully identifies a global component and suggests that it explains about a half of output volatility in emerging countries and around one-third for developed commodity exporters, while terms of trade idiosyncratic movements are responsible only for 10 percent.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Terms of trade have been largely considered an important determinant of business cycles in Small Open Economies (SOEs). Current estimates of their contribution to fluctuations in real variables show a large variability and do not exploit the full information from global indicators to improve their reliability. In this paper, I propose a novel strategy that allows me to separately identify innovations in terms of trade and global variables by extending the news identification approach. Results show that the proposed method successfully identifies a global component and suggests that it explains about a half of output volatility in emerging countries and around one-third for developed commodity exporters, while terms of trade idiosyncratic movements are responsible only for 10 percent.
 
 tags:
 - Source Themes
