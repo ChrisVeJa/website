@@ -3,22 +3,22 @@ title: "Global shocks, terms of trade and Small Open Economies business cycles"
 authors:
 - admin
 author_notes:
-- "Equal contribution"
+- "velasqcb@bc.edu"
 date: "2023-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-08-01T00:00:00Z"
+#publishDate: "2023-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+#publication: "*Journal of Source Themes, 1*(1)"
+#ublication_short: ""
 
 abstract: Terms of trade have been largely considered an important determinant of business cycles in Small Open Economies (SOEs). Current estimates of their contribution to fluctuations in real variables show a large variability and do not exploit the full information from global indicators to improve their reliability. In this paper, I propose a novel strategy that allows me to separately identify innovations in terms of trade and global variables by extending the news identification approach. Results show that the proposed method successfully identifies a global component and suggests that it explains about a half of output volatility in emerging countries and around one-third for developed commodity exporters, while terms of trade idiosyncratic movements are responsible only for 10 percent.
 
@@ -26,20 +26,20 @@ abstract: Terms of trade have been largely considered an important determinant o
 summary: Terms of trade have been largely considered an important determinant of business cycles in Small Open Economies (SOEs). Current estimates of their contribution to fluctuations in real variables show a large variability and do not exploit the full information from global indicators to improve their reliability. In this paper, I propose a novel strategy that allows me to separately identify innovations in terms of trade and global variables by extending the news identification approach. Results show that the proposed method successfully identifies a global component and suggests that it explains about a half of output volatility in emerging countries and around one-third for developed commodity exporters, while terms of trade idiosyncratic movements are responsible only for 10 percent.
 
 tags:
-- Source Themes
+#- Source Themes
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_pdf: 'uploads/GlobalShocksPaper.pdf'
+##url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -53,22 +53,22 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+#projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
+
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
+
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
+
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
