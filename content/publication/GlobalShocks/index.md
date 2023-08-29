@@ -26,6 +26,10 @@ abstract: Terms of trade have been largely considered an important determinant o
 summary: Terms of trade have been largely considered an important determinant of business cycles in Small Open Economies (SOEs). Current estimates of their contribution to fluctuations in real variables show a large variability and do not exploit the full information from global indicators to improve their reliability. In this paper, I propose a novel strategy that allows me to separately identify innovations in terms of trade and global variables by extending the news identification approach. Results show that the proposed method successfully identifies a global component and suggests that it explains about a half of output volatility in emerging countries and around one-third for developed commodity exporters, while terms of trade idiosyncratic movements are responsible only for 10 percent.
 
 tags:
+  - Business Cycles
+  - Small Open Economies
+  - Global shocks
+  - Commodoties prices
 #- Source Themes
 featured: false
 
@@ -44,7 +48,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
