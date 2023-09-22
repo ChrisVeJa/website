@@ -41,7 +41,7 @@ featured: false
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
-#url_slides: ''
+url_slides: 'uploads/presentationGS_Velasquez.pdf'
 #url_source: ''
 #url_video: ''
 
@@ -64,7 +64,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+#slides: slides_WeatherAndEconomics_ChrisVel.pdf
 
 #{{% callout note %}}
 #Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

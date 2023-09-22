@@ -80,7 +80,7 @@ highlight_name: true
 
 #
 
-I am a Ph.D. Candidate in Economics at Boston College. My research primarily concerns the macroeconomics effects of climate change and weather variability. In particular, how changes in weather conditions affects heterogeneously across regions and sector in the United States and in Small Open Economies.
+I am a Ph.D. Candidate in Economics at Boston College. My research interest is primarily concerned with the macroeconomic effects of climate change and weather variability. In particular, how changes in weather conditions affect heterogeneously across regions and sectors in the United States and Small Open Economies.
 {style="text-align: justify;"}
 
 I will be on the job market in the academic year 2023-2024 and am available for interviews at the ASSA meetings.
