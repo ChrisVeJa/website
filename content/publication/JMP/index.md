@@ -50,7 +50,7 @@ featured: true
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
 #url_project: ''
-url_slides: 'uploads/slides_WeatherAndEconomics_ChrisVel.pdf'
+url_slides: 'uploads/handout_WeatherAndEconomics_ChrisVel.pdf'
 #url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_video: 'https://youtube.com'
 
