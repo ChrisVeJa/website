@@ -1,5 +1,5 @@
 ---
-title: 'The role of heterogeneity and production networks in the economic impact of weather shocks (JMP)'
+title: 'Heterogeneity, Production Networks and the Economic Impact of Weather Shocks (JMP)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
